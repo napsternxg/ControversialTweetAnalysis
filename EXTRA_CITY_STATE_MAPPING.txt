@@ -1,0 +1,37 @@
+NYC	NY
+Midwest	IL
+Brooklyn	NY
+Manhattan	NY
+SF Bay Area	CA
+Bay Area	CA
+New England	MA
+Jersey	NJ
+Silicon Valley	CA
+St Louis	MO
+San Antonio	TX
+Minneapolis	MN
+Detroit	MI
+Cleveland	OH
+Philly	PA
+LA BABY!	CA
+Central GA USA	GA
+NorCal	CA
+SoCal	CA
+ATL	GA
+NoVA USA	VA
+So Cal	CA
+West Coast	CA
+East Coast	NY
+America	USA
+United States	USA
+US	USA
+ATX	TX
+HTX	TX
+Indy Baby	IN
+Santa Monica	CA
+RVA	VA
+Cali	CA
+Vegas	NV
+Long Island	NY
+DFW	TX
+

@@ -87,3 +87,21 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Custom files
+*.json*
+*.gz
+*.h5
+*.log
+*.err
+*.out
+data/
+backup_*/
+SeatBelt/
+ChildEducation
+Vaccine/
+SkinDamage/
+GunControl/
+Privacy/
+DomainDataset/
+TID_META.txt
