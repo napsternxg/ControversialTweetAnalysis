@@ -11,3 +11,7 @@ Analysis of controversial tweets
 * Merge URLs using `Merge URLs and tweets.ipynb`
 * Run `Prepare analysis data.ipynb` by uncommenting the Location blog
 
+## Contributors:
+* Shubhanshu Mishra [@napsternxg]
+* Aseel Addawood [@aseelad]
+* Shadi Rezapour
