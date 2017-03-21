@@ -12,6 +12,6 @@ Analysis of controversial tweets
 * Run `Prepare analysis data.ipynb` by uncommenting the Location blog
 
 ## Contributors:
-* Shubhanshu Mishra [@napsternxg]
-* Aseel Addawood [@aseelad]
+* [Shubhanshu Mishra](https://github.com/napsternxg)
+* [Aseel Addawood](https://github.com/aseelad)
 * Shadi Rezapour
