@@ -1,6 +1,6 @@
 # ControversialTweetAnalysis
 Analysis of controversial tweets
-This project also introduces a lexicon which can be used to classify the URL into the following categories: 
+This project also introduces [a lexicon](./Final%20Lexicons/URL_CATEGORIES.tsv) which can be used to classify the URL into the following categories: 
 
 | Type​ 	| Counts​ 	| Description​ 	| Example​ 	|
 |:--------------|--------:|:----------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------|
@@ -12,6 +12,8 @@ This project also introduces a lexicon which can be used to classify the URL int
 | Social media​ 	| 87​ 	| All social media domains indexed by Wikidata​ 	| facebook.com​ 	|
 | Twitter​ 	| 1​ 	| Links to other tweets, twitter hosted images, videos​ 	| twitter.com​ 	|
 | Videos​ 	| 13​ 	| All video sharing services from Wikipedia​ 	| vimeo.com​ 	|
+
+[Click to access the URL categorization lexicon](./Final%20Lexicons/URL_CATEGORIES.tsv). 
 
 ## Citation
 
